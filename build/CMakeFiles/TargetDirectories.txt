@@ -1,0 +1,9 @@
+C:/Users/georg/Desktop/code/repos/TerminalBA/build/CMakeFiles/Experimental.dir
+C:/Users/georg/Desktop/code/repos/TerminalBA/build/CMakeFiles/Nightly.dir
+C:/Users/georg/Desktop/code/repos/TerminalBA/build/CMakeFiles/Continuous.dir
+C:/Users/georg/Desktop/code/repos/TerminalBA/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/georg/Desktop/code/repos/TerminalBA/build/CMakeFiles/TerminalBA.dir
+C:/Users/georg/Desktop/code/repos/TerminalBA/build/CMakeFiles/PACKAGE.dir
+C:/Users/georg/Desktop/code/repos/TerminalBA/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/georg/Desktop/code/repos/TerminalBA/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/georg/Desktop/code/repos/TerminalBA/build/CMakeFiles/ZERO_CHECK.dir

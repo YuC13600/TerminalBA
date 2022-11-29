@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\georg\Desktop\code\repos\TerminalBA\build\CMakeFiles\91bc1b5db649a7e01f6285c41f092be1\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\georg\Desktop\code\repos\TerminalBA\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\georg\Desktop\code\repos\TerminalBA\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2440B635-D6D2-3827-8CAE-31982DAD196F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

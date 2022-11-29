@@ -1,0 +1,10 @@
+^C:\USERS\GEORG\DESKTOP\CODE\REPOS\TERMINALBA\BUILD\CMAKEFILES\91BC1B5DB649A7E01F6285C41F092BE1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/georg/Desktop/code/repos/TerminalBA -BC:/Users/georg/Desktop/code/repos/TerminalBA/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/georg/Desktop/code/repos/TerminalBA/build/TerminalBA.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
